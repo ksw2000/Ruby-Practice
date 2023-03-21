@@ -1,6 +1,6 @@
 # Ruby-Practice
 
-![](https://i.imgur.com/Dh9zG7D.jpg)
+![](https://user-images.githubusercontent.com/13825170/226702911-bb7ce9ce-4aba-4ca5-b3b8-ffb85a55cb61.png)
 
 ## Install Ruby
 
